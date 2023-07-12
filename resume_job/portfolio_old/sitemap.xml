@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://weblet.top/</loc>
+  <lastmod>2018-10-01T16:46:34+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://weblet.top/index.html</loc>
+  <lastmod>2018-10-01T16:46:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://weblet.top/portfolio1.html</loc>
+  <lastmod>2018-10-01T16:09:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://weblet.top/portfolio2.html</loc>
+  <lastmod>2018-10-01T16:09:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://weblet.top/portfolio3.html</loc>
+  <lastmod>2018-10-01T16:09:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://weblet.top/blog-post1.html</loc>
+  <lastmod>2018-10-01T16:09:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://weblet.top/blog-post2.html</loc>
+  <lastmod>2018-10-01T16:09:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://weblet.top/blog-post3.html</loc>
+  <lastmod>2018-10-01T16:09:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://weblet.top/konfidencialnosti.html</loc>
+  <lastmod>2018-10-01T16:09:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
