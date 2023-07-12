@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-Host: weblet.top
-Sitemap: http://weblet.top/sitemap.xml
